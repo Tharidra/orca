@@ -1,1 +1,160 @@
+<h1>Skills and techniques</h1>
+    <h2>Marketing and communication design</h2>
+    <p>Marketing and communication design on a website may identify what works for its target market. 
+      This can be an age group or particular strand of culture; thus the designer may understand the 
+      trends of its audience. Designers may also understand the type of website they are designing, 
+      meaning, for example, that (B2B) business-to-business website design considerations might differ 
+      greatly from a consumer targeted website such as a retail or entertainment website. Careful 
+      consideration might be made to ensure that the aesthetics or overall design of a site do not 
+      clash with the clarity and accuracy of the content or the ease of web navigation,[9] especially 
+      on a B2B website. Designers may also consider the reputation of the owner or business the site 
+      is representing to make sure they are portrayed favourably.</p>
 
+    <h2>User experience design and interactive design</h2>
+    <p>User understanding of the content of a website often depends on user understanding of how 
+      the website works. This is part of the user experience design. User experience is related to 
+      layout, clear instructions and labeling on a website. How well a user understands how they can 
+      interact on a site may also depend on the interactive design of the site. If a user perceives the 
+      usefulness of the website, they are more likely to continue using it. Users who are skilled and well 
+      versed with website use may find a more distinctive, yet less intuitive or less user-friendly website 
+      interface useful nonetheless. However, users with less experience are less likely to see the advantages 
+      or usefulness of a less intuitive website interface. This drives the trend for a more universal user 
+      experience and ease of access to accommodate as many users as possible regardless of user skill.[10] 
+      Much of the user experience design and interactive design are considered in the user interface design.
+
+    <p>Advanced interactive functions may require plug-ins if not advanced coding language skills. 
+      Choosing whether or not to use interactivity that requires plug-ins is a critical decision in 
+      user experience design. If the plug-in doesn't come pre-installed with most browsers, there's a 
+      risk that the user will have neither the know how or the patience to install a plug-in just to 
+      access the content. If the function requires advanced coding language skills, it may be too 
+      costly in either time or money to code compared to the amount of enhancement the function 
+      will add to the user experience. There's also a risk that advanced interactivity may be 
+      incompatible with older browsers or hardware configurations. Publishing a function that 
+      doesn't work reliably is potentially worse for the user experience than making no attempt. 
+      It depends on the target audience if it's likely to be needed or worth any risks.</p>
+
+    <h2>Page layout</h2>
+    <p>Part of the user interface design is affected by the quality of the page layout. For example, 
+      a designer may consider whether the site's page layout should remain consistent on different 
+      pages when designing the layout. Page pixel width may also be considered vital for aligning 
+      objects in the layout design. The most popular fixed-width websites generally have the same 
+      set width to match the current most popular browser window, at the current most popular screen 
+      resolution, on the current most popular monitor size. Most pages are also center-aligned for 
+      concerns of aesthetics on larger screens.</p>
+
+    <!-- Use images from linked site -->
+    <p>Fluid layouts increased in popularity around 2000 as an alternative to HTML-table-based 
+      layouts and grid-based design in both page layout design principle and in coding technique, 
+      but were very slow to be adopted.[note 1] This was due to considerations of screen reading 
+      devices and varying windows sizes which designers have no control over. Accordingly, a design 
+      may be broken down into units (sidebars, content blocks, embedded advertising areas, navigation 
+      areas) that are sent to the browser and which will be fitted into the display window by the 
+      browser, as best it can. As the browser does recognize the details of the reader's screen 
+      (window size, font size relative to window etc.) the browser can make user-specific layout 
+      adjustments to fluid layouts, but not fixed-width layouts. Although such a display may often 
+      change the relative position of major content units, sidebars may be displaced below body 
+      text rather than to the side of it. This is a more flexible display than a hard-coded 
+      grid-based layout that doesn't fit the device window. In particular, the relative 
+      position of content blocks may change while leaving the content within the block 
+      unaffected. This also minimizes the user's need to horizontally scroll the page.</p>
+
+    <!-- Use images from linked site -->
+    <p>Responsive Web Design is a newer approach, based on CSS3, and a deeper level of per-device 
+      specification within the page's stylesheet through an enhanced use of the CSS @media rule. In 
+      March 2018 Google announced they would be rolling out mobile-first indexing.[11]Sites using 
+      responsive design are well placed to ensure they meet this new approach.</p>
+
+    <h2>Typography</h2>
+    <!-- Use images from linked site on web safe fonts -->
+    <p>Web designers may choose to limit the variety of website typefaces to only a few 
+      which are of a similar style, instead of using a wide range of typefaces or type styles. 
+      Most browsers recognize a specific number of safe fonts, which designers mainly use in order 
+      to avoid complications.</p>
+
+    <p>Font downloading was later included in the CSS3 fonts module and has since been implemented 
+      in Safari 3.1, Opera 10 and Mozilla Firefox 3.5. This has subsequently increased interest in 
+      web typography, as well as the usage of font downloading.</p>
+
+    <p>Most site layouts incorporate negative space to break the text up into paragraphs and also 
+      avoid center-aligned text.[12]</p>
+
+    <h2>Motion graphics</h2>
+    <p>The page layout and user interface may also be affected by the use of motion graphics. 
+      The choice of whether or not to use motion graphics may depend on the target market for 
+      the website. Motion graphics may be expected or at least better received with an 
+      entertainment-oriented website. However, a website target audience with a more serious or 
+      formal interest (such as business, community, or government) might find animations unnecessary 
+      and distracting if only for entertainment or decoration purposes. This doesn't mean that more 
+      serious content couldn't be enhanced with animated or video presentations that is relevant to 
+      the content. In either case, motion graphic design may make the difference between more effective 
+      visuals or distracting visuals.</p>
+
+    <p>Motion graphics that are not initiated by the site visitor can produce accessibility issues. 
+      The World Wide Web consortium accessibility standards require that site visitors be able to disable 
+      the animations.[13]</p>
+
+    <h2>Quality of code</h2>
+    <p>Website designers may consider it to be good practice to conform to standards. This is usually 
+      done via a description specifying what the element is doing. Failure to conform to standards may 
+      not make a website unusable or error prone, but standards can relate to the correct layout of 
+      pages for readability as well making sure coded elements are closed appropriately. This includes 
+      errors in code, more organized layout for code, and making sure IDs and classes are identified 
+      properly. Poorly-coded pages are sometimes colloquially called tag soup. Validating via W3C[7] 
+      can only be done when a correct DOCTYPE declaration is made, which is used to highlight errors 
+      in code. The system identifies the errors and areas that do not conform to web design standards. 
+      This information can then be corrected by the user.[14]</p>
+
+    <h2>Generated content</h2>
+      <p>There are two ways websites are generated: statically or dynamically.</p>
+
+    <h3>Static websites</h3>
+<!-- Use images from linked site -->
+    <p>Main article: <i><a href="">Static web page</a></i></p>
+      <p>A static website stores a unique file for every page of a static website. Each time that page is 
+      requested, the same content is returned. This content is created once, during the design of the 
+      website. It is usually manually authored, although some sites use an automated creation process, 
+      similar to a dynamic website, whose results are stored long-term as completed pages. 
+      These automatically-created static sites became more popular around 2015, with generators 
+      such as Jekyll and Adobe Muse.[15]</p>
+
+    <p>The benefits of a static website are that they were simpler to host, as their server only needed 
+      to serve static content, not execute server-side scripts. This required less server administration 
+      and had less chance of exposing security holes. They could also serve pages more quickly, on low-cost 
+      server hardware. These advantage became less important as cheap web hosting expanded to also offer 
+      dynamic features, and virtual servers offered high performance for short intervals at low cost.</p>
+
+    <p>Almost all websites have some static content, as supporting assets such as images and stylesheets
+      are usually static, even on a website with highly dynamic pages.</p>
+
+      <h3>Dynamic websites</h3>
+<!-- Use images from linked site -->
+  <p>Main article: <i><a href="">Dynamic web page</a></i></p>
+    <p>Dynamic websites are generated on the fly and use server-side technology to generate webpages. 
+      They typically extract their content from one or more back-end databases: some are database queries 
+      across a relational database to query a catalogue or to summarise numeric information, others may use 
+      a document database such as MongoDB or NoSQL to store larger units of content, such as blog posts or 
+      wiki articles.</p>
+
+    <p>In the design process, dynamic pages are often mocked-up or wireframed using static pages. The 
+      skillset needed to develop dynamic web pages is much broader than for a static pages, involving 
+      server-side and database coding as well as client-side interface design. Even medium-sized dynamic 
+      projects are thus almost always a team effort.</p>
+
+    <p>When dynamic web pages first developed, they were typically coded directly in languages such as 
+      Perl, PHP or ASP. Some of these, notably PHP and ASP, used a 'template' approach where a server-side 
+      page resembled the structure of the completed client-side page and data was inserted into places 
+      defined by 'tags'. This was a quicker means of development than coding in a purely procedural coding 
+      language such as Perl.</p>
+
+    <p>Both of these approaches have now been supplanted for many websites by higher-level application-focused 
+      tools such as content management systems. These build on top of general purpose coding platforms and
+      assume that a website exists to offer content according to one of several well recognised models, such 
+      as a time-sequenced blog, a thematic magazine or news site, a wiki or a user forum. These tools make 
+      the implementation of such a site very easy, and a purely organisational and design-based task, 
+      without requiring any coding.</p>
+
+    <p>Editing the content itself (as well as the template page) can be done both by means of the site 
+      itself, and with the use of third-party software. The ability to edit all pages is provided only 
+      to a specific category of users (for example, administrators, or registered users). In some cases, 
+      anonymous users are allowed to edit certain web content, which is less frequent (for example, on 
+      forums - adding messages). An example of a site with an anonymous change is Wikipedia.</p>
