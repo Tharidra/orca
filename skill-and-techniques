@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Web Design: Skills and Techniques</title>
+
+  </head>
+
+  <body>
+
 <h1>Skills and techniques</h1>
     <h2>Marketing and communication design</h2>
     <p>Marketing and communication design on a website may identify what works for its target market. 
@@ -158,3 +170,7 @@
       to a specific category of users (for example, administrators, or registered users). In some cases, 
       anonymous users are allowed to edit certain web content, which is less frequent (for example, on 
       forums - adding messages). An example of a site with an anonymous change is Wikipedia.</p>
+      
+      </body>
+
+</html>
