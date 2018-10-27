@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Web Design: Homepage Design</title>
+
+  </head>
+
+  <body>      
+      
       <h1>Homepage design</h1>
     <p>Usability experts, including Jakob Nielsen and Kyle Soucy, have often emphasised homepage design 
       for website success and asserted that the homepage is the most important page on a 
@@ -11,3 +23,7 @@
       popular design element on homepages, often used to showcase featured or recent content in a confined 
       space.[26][27] Many practitioners argue that carousels are an ineffective design element and hurt a 
       website's search engine optimisation and usability.[27][28][29]</p>
+
+</body>
+
+</html>
