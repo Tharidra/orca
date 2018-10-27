@@ -1,3 +1,15 @@
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Web Design: Occupations</title>
+
+  </head>
+
+  <body>
+   
    <h1>Occupations</h1>
     <p>There are two primary jobs involved in creating a website: the web designer and web developer, 
       who often work closely together on a website.[30] The web designers are responsible for the visual 
@@ -6,4 +18,8 @@
       knowledge will differ from one web designer to another. Particularly in smaller organizations one 
       person will need the necessary skills for designing and programming the full web page, while larger
       organizations may have a web designer responsible for the visual aspect alone.[31]</p>
+      
+      </body>
+
+</html>
 
