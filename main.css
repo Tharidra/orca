@@ -2,6 +2,10 @@ body {
  font-family: 'Roboto', sans-serif; 
 }
 
+a:link {
+ color: #FF0000;
+}
+
 a:hover {
 color: #9400D3;
 }
