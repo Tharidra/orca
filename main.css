@@ -1,6 +1,11 @@
 body {
  font-family: 'Roboto', sans-serif; 
 }
+
 a:hover {
-color: #9400d3;
+color: #9400D3;
+}
+
+a:visited {
+ color: #0000FF;
 }
