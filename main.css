@@ -13,3 +13,14 @@ color: #9400D3;
 a:visited {
  color: #0000FF;
 }
+
+.nav {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav li {
+  display: inline-block;
+  padding: 20px;
+}
