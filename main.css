@@ -34,7 +34,7 @@ a:visited {
 
 
  .nav a:link {
-   color: black;
+   color: #000;
    text-decoration: none;
    font-weight: bold;
    display: block center;
@@ -43,7 +43,7 @@ a:visited {
 }
 
 .nav a:hover {
-  color: white;
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
   background-color: #000;
@@ -53,7 +53,7 @@ a:visited {
 }
 
 .nav a:visited {
-  color: black;
+  color: #000;
   text-decoration: none;
   font-weight: bold;
   display: block center;
@@ -62,7 +62,7 @@ a:visited {
 }
 
 .nav a:active {
-  color: white;
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
   background-color: #c0c
