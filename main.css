@@ -1,3 +1,7 @@
+h1 {
+  text-align: center;
+}
+
 body {
  font-family: 'Roboto', sans-serif;
  display: block;
@@ -20,4 +24,49 @@ a:visited {
   margin: 0px;
   padding: 0px;
   list-style: none;
+  
+}
+
+.nav li {
+  padding: 5px;
+  text-decoration: none;
+}
+
+
+ .nav a:link {
+   color: black;
+   text-decoration: none;
+   font-weight: bold;
+   display: block center;
+   border-radius: 5px;
+   padding: 5px 30px;
+}
+
+.nav a:hover {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  background-color: #000;
+  display: block center;
+  border-radius: 5px;
+  padding: 5px 30px;
+}
+
+.nav a:visited {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  display: block center;
+  border-radius: 5px;
+  padding: 5px 30px;
+}
+
+.nav a:active {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  background-color: #c0c
+  display: block center;
+  border-radius: 5px;
+  padding: 5px 30px;
 }
