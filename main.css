@@ -4,6 +4,10 @@ body {
   margin: 0px 195px 15px 195px;
 }
 
+h1 {
+ padding-bottom: none;
+}
+
 a:link {
  color: #FF0000;
 }
