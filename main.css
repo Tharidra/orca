@@ -76,3 +76,7 @@ hr {
  margin-inline-start: auto;
  margin-inline-end: auto;
 }
+
+figure {
+ position: relative;
+}
