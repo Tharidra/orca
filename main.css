@@ -86,3 +86,7 @@ figure {
  float: right;
  margin-left: 10px;
 }
+
+figure#content-is-like-water, figure#web_index {
+ float: none;
+}
