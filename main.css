@@ -97,3 +97,8 @@ figure#content-is-like-water, figure#web_index {
     margin-left: 10px;
     max-width: 510px;
 }
+
+.figure_caption {
+ font-style: italic;
+ font-size: 12px;
+}
