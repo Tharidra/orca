@@ -97,6 +97,7 @@ figure#content-is-like-water, figure#web_index {
     float: right;
     margin-left: 10px;
     padding: 5px;
+    background-color: black;
 }
 
 .figure_caption {
