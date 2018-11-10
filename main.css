@@ -97,7 +97,7 @@ figure#content-is-like-water, figure#web_index {
     float: right;
     margin-left: 10px;
     padding: 5px;
-    background-color: black;
+    background-color: #000000;
 }
 
 .figure_caption {
@@ -106,7 +106,7 @@ figure#content-is-like-water, figure#web_index {
 }
 
 .figure_source a {
- color: white;
+ color: #ffffff;
 }
 
 abbr[title], acronym[title] {
