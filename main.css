@@ -85,6 +85,7 @@ figure {
  position: relative;
  float: right;
  margin-left: 10px;
+ max-width: 512px;
 }
 
 figure#content-is-like-water, figure#web_index {
@@ -95,7 +96,6 @@ figure#content-is-like-water, figure#web_index {
     position: relative;
     float: right;
     margin-left: 10px;
-    max-width: 510px;
     padding: 5px;
 }
 
