@@ -97,19 +97,6 @@ figure#content-is-like-water, figure#web_index {
  font-size: 12px;
 }
 
-.figure_source a {
- color: #ffffff;
-}
-
 abbr[title], acronym[title] {
     text-decoration: underline;
-}
-
-cite {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    background-color: #000000;
-    padding: 5px;
-    color: #ffffff;
 }
