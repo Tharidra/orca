@@ -95,6 +95,8 @@ figure#content-is-like-water, figure#web_index {
 .figure_source {
  font-style: italic;
  font-size: 12px;
+ float: right;
+ margin: 0px;
 }
 
 abbr[title], acronym[title] {
