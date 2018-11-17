@@ -10,6 +10,7 @@
 @media only screen and (max-width: 30em) {
  table, tbody, tr, td {
   display: block;
+  margin: auto;
  }
 }
 
