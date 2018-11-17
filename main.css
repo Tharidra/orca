@@ -8,7 +8,7 @@
 }
 
 @media only screen and (max-width: 30em) {
- table {
+ table, thead, tbody, th, td, tr {
   display: block;
  }
 }
