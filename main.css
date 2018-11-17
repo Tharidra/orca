@@ -1,7 +1,9 @@
 /* Media queries */
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 40.5em) and (min-width: 20em) {
+ .figure {
  
+ }
 }
 
 body {
@@ -87,10 +89,10 @@ hr {
 }
 
 figure {
- position: relative;
- float: right;
- margin-left: 10px;
- max-width: 512px;
+ positionL relative;
+ display: block;
+ margin: 1em auto;
+ max-width: 310px;
 }
 
 figure#content-is-like-water, figure#web_index {
