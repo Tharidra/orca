@@ -9,6 +9,8 @@
 @media only screen and (min-width: 40.5em) {
  .figure {
   float: right;
+  margin-top: 0px;
+  margin-left: 5px;
  }
 }
  
