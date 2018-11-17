@@ -1,13 +1,13 @@
 /* Media queries */
 
 @media only screen and (max-width: 40.5em) and (min-width: 20em) {
- .figure {
+ figure {
  
  }
 }
 
 @media only screen and (min-wdith: 40.5em) {
- .figure {
+ figure {
   float: right;
  }
 }
