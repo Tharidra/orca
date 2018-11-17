@@ -30,6 +30,8 @@ main {
 body {
  font: 100%/1.4em 'Roboto', sans-serif;
  display: block;
+ margin: 0px;
+ padding: 0px;
 }
 
 h1, h2, h3 {
