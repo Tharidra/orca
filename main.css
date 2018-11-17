@@ -105,7 +105,7 @@ figure {
  position: relative;
  display: block;
  margin: 1em auto;
- max-width: 310px;
+ max-width: 100%;
 }
 
 .figure_source {
