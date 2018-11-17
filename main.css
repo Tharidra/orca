@@ -6,7 +6,11 @@
  }
 }
 
-@media only screen and (min-wdith: 40.5em)
+@media only screen and (min-wdith: 40.5em) {
+ .figure {
+  float: right;
+ }
+}
  
 
 body {
