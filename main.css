@@ -12,11 +12,7 @@
   display: block;
   margin: auto;
  }
- 
- body {
-  display: grid;
-  font: 100%;
- }
+
 }
 
 header {
@@ -32,7 +28,7 @@ main {
 }
 
 body {
- font-family: 'Roboto', sans-serif;
+ font: 100%/1.4em 'Roboto', sans-serif;
  display: block;
 }
 
