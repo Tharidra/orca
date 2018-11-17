@@ -13,7 +13,10 @@
   margin-left: 5px;
  }
 }
- 
+
+main {
+ max-width: 960px;
+}
 
 body {
  font-family: 'Roboto', sans-serif;
