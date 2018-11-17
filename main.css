@@ -9,17 +9,17 @@
  }
 }
 
-@media only screen and (max-width: 33.75em) {
+@media only screen and (min-width: 33.75em) {
  header {
-  display: block;
- }
-}
-
-header {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+ }
+}
+
+header {
+ display: block;
 }
 
 main hr {
