@@ -16,7 +16,7 @@ header {
   width: fit-content;
  }
 
-main hr {
+main {
  max-width: 960px;
  margin: 0 auto;
 }
