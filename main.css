@@ -6,6 +6,9 @@
  }
 }
 
+@media only screen and (min-wdith: 40.5em)
+ 
+
 body {
  font-family: 'Roboto', sans-serif;
  display: block;
@@ -89,7 +92,7 @@ hr {
 }
 
 figure {
- positionL relative;
+ position: relative;
  display: block;
  margin: 1em auto;
  max-width: 310px;
