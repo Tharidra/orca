@@ -75,13 +75,22 @@ a:visited {
 }
 
 .nav a:hover {
-  color: #ffffff;
+  
   text-decoration: none;
   font-weight: bold;
-  background-color: #000000;
   display: block center;
   border-radius: 5px;
   padding: 5px 30px;
+  animation-name: hover;
+  animation-duration: 500ms;
+  animation-fill-mode: forwards;
+}
+
+@keyframes hover {
+ 100% {
+  background-color: #000000;
+  color: #ffffff;
+ }
 }
 
 .nav a:visited {
