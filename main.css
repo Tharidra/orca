@@ -136,3 +136,9 @@ figure {
 abbr[title], acronym[title] {
     text-decoration: underline;
 }
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
