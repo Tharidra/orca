@@ -82,7 +82,8 @@ a:visited {
   padding: 5px 30px;
   background: #000000;
   color: #ffffff;
-  transition: background .4s, color .4s;
+  transition: background .4s;
+  transition: color .4s;
 }
 
 .nav a:visited {
