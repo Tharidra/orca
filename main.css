@@ -5,6 +5,7 @@
   margin-left: 5px;
   max-width: 100%;
  }
+ 
 }
 
 @media only screen and (max-width: 30em) {
@@ -111,3 +112,6 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+
+
