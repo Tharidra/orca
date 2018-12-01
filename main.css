@@ -186,6 +186,16 @@
         right: auto;
         left:  -999em;
     }
+    
+    .home #menu-close::before {
+    color: #000;
+    content: "^ Return to the top";
+    display: inline-block;
+    font-size: .75em;
+    margin-top: 1em;
+    text-transform: uppercase;
+}
+    
 }
 
 @media only screen and (max-width: 30em) {
