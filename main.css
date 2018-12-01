@@ -1,3 +1,8 @@
+@media only screen and (min-width:20em) and (max-width: 40.5em) {
+#getActiveMQ-watcher { font-family: "small"; }
+
+}
+
 @media only screen and (min-width: 40.5em) {
  .figure {
   float: right;
@@ -5,8 +10,6 @@
   margin-left: 5px;
   max-width: 100%;
  }
- 
- #getActiveMQ-watcher { font-family: "small"; }
  
 }
 
