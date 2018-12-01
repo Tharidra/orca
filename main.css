@@ -5,6 +5,22 @@
     /* lovingly used from Aaron Gustafson from the Modern Web Design class at Gymnasium
      * https://github.com/aarongustafson/i-heart-cuttlefish
      */
+ 
+ #nav-jump {
+    border: 1px solid;
+    border-radius: 3px;
+    background: #000;
+    color: #fff;
+    font: bold .875em 'Roboto', sans-serif;
+    padding: .5em;
+    text-transform: uppercase;
+    /* move to the upper right corner */
+    position: absolute;
+    top: .75em;
+    right: 1em;
+    z-index: 1000;
+}
+ 
     body:not(:target) #menu {
         max-width: 100%;
         width: 100%;
