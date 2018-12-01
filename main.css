@@ -1,11 +1,10 @@
 @media only screen and (min-width:20em) and (max-width: 40.5em) {
- /* =================================================================
-     * Navigation
-     * ================================================================= */
     /* lovingly used from Aaron Gustafson from the Modern Web Design class at Gymnasium
      * https://github.com/aarongustafson/i-heart-cuttlefish
      */
- 
+ /* =================================================================
+     * Navigation
+     * ================================================================= */
  #nav-jump {
     border: 1px solid;
     border-radius: 3px;
@@ -159,6 +158,18 @@
     /* for getActiveMQ */
     #getActiveMQ-watcher { font-family: "small"; }
 
+}
+
+/* =================================================================
+ * Helpers
+ * ================================================================= */
+.hidden {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px 1px 1px 1px); /* IE6 and IE7 use the wrong syntax */
+    clip: rect(1px, 1px, 1px, 1px);
 }
 
 /* Custom code */
