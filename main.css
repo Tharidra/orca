@@ -185,6 +185,7 @@
     #nav-jump {
         right: auto;
         left:  -999em;
+        position: absolute;
     }
     
     .home #menu-close::before {
